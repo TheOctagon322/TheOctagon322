@@ -8,4 +8,3 @@
 TheOctagon322/TheOctagon322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[personal-portfolio-webpage.zip](https://github.com/TheOctagon322/TheOctagon322/files/7697276/personal-portfolio-webpage.zip)
